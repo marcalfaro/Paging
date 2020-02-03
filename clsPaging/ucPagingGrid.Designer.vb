@@ -40,7 +40,7 @@ Partial Class ucPagingGrid
         '
         Me.btnLast.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnLast.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnLast.Location = New System.Drawing.Point(437, 323)
+        Me.btnLast.Location = New System.Drawing.Point(443, 323)
         Me.btnLast.Name = "btnLast"
         Me.btnLast.Size = New System.Drawing.Size(29, 29)
         Me.btnLast.TabIndex = 20
@@ -52,7 +52,7 @@ Partial Class ucPagingGrid
         '
         Me.btnNext.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnNext.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnNext.Location = New System.Drawing.Point(402, 323)
+        Me.btnNext.Location = New System.Drawing.Point(408, 323)
         Me.btnNext.Name = "btnNext"
         Me.btnNext.Size = New System.Drawing.Size(29, 29)
         Me.btnNext.TabIndex = 21
@@ -64,7 +64,7 @@ Partial Class ucPagingGrid
         '
         Me.btnPrevious.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnPrevious.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnPrevious.Location = New System.Drawing.Point(367, 323)
+        Me.btnPrevious.Location = New System.Drawing.Point(373, 323)
         Me.btnPrevious.Name = "btnPrevious"
         Me.btnPrevious.Size = New System.Drawing.Size(29, 29)
         Me.btnPrevious.TabIndex = 22
@@ -76,7 +76,7 @@ Partial Class ucPagingGrid
         '
         Me.btnFirst.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.btnFirst.Font = New System.Drawing.Font("Microsoft Sans Serif", 11.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnFirst.Location = New System.Drawing.Point(332, 323)
+        Me.btnFirst.Location = New System.Drawing.Point(338, 323)
         Me.btnFirst.Name = "btnFirst"
         Me.btnFirst.Size = New System.Drawing.Size(29, 29)
         Me.btnFirst.TabIndex = 23
